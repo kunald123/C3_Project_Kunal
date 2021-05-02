@@ -1,0 +1,69 @@
+########################
+# Eclipse/STS
+########################
+.project
+.classpath
+.apt_generated
+.factorypath
+.settings
+target
+bin
+build
+dist
+ 
+########################
+# IntelliJ & Webstorm
+########################
+.idea
+*.iml
+ 
+########################
+# Maven Builds
+########################
+smartsync
+.checkstyle
+soap-ui-tests/.*-FAILED.txt
+manifest.xml
+soapui-errors.log
+global-groovy.log
+soapui.log
+build.properties
+configuration.properties
+runtime.properties
+overlays
+ 
+ 
+ 
+########################
+# GIT
+########################
+*.orig
+ 
+########################
+# MacOS
+########################
+.DS_Store
+ 
+ 
+########################
+# Compiled class file
+########################
+*.class
+ 
+########################
+# Log file
+########################
+*.log
+ 
+ 
+########################
+# Deployment Files
+########################
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
